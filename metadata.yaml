@@ -1,5 +1,5 @@
 _repo: Als-ich-noch-der-Waldbauernbub-war-Band-1-Fur-die-Jugend-ausgewahlt-aus-den-Schriften-Rosegge__61998
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Lottig, William
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '51719'
     url: http://www.gutenberg.org/2009/agents/51719
     wikipedia: https://de.wikipedia.org/wiki/William_Lottig
+covers:
+- cover_type: archival
+  image_path: 61998-h/images/cover.jpg
 creator:
   author:
     agent_name: Rosegger, Peter
@@ -23,6 +26,8 @@ creator:
     - https://de.wikipedia.org/wiki/Peter_Rosegger
     - https://en.wikipedia.org/wiki/Peter_Rosegger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61998#Als-ich-noch-der-Waldbauernbub-war-Band-1-Fur-die-Jugend-ausgewahlt-aus-den-Schriften-Rosegge_
 gutenberg_issued: '2020-05-02'
 gutenberg_type: Text
 identifiers:
