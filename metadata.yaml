@@ -1,0 +1,46 @@
+_repo: Als-ich-noch-der-Waldbauernbub-war-Band-1-Fur-die-Jugend-ausgewahlt-aus-den-Schriften-Rosegge__61998
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Lottig, William
+    alias: Lottig, W.
+    birthdate: 1867
+    deathdate: 1953
+    gutenberg_agent_id: '51719'
+    url: http://www.gutenberg.org/2009/agents/51719
+    wikipedia: https://de.wikipedia.org/wiki/William_Lottig
+creator:
+  author:
+    agent_name: Rosegger, Peter
+    aliases:
+    - Fels, Gabriel
+    - Rosegger, Petri Kettenfeier
+    birthdate: 1843
+    deathdate: 1918
+    gutenberg_agent_id: '7090'
+    url: http://www.gutenberg.org/2009/agents/7090
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Peter_Rosegger
+    - https://en.wikipedia.org/wiki/Peter_Rosegger
+description: ''
+gutenberg_issued: '2020-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61998'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, Austrian'
+- GITenberg
+tableOfContents: Vom Urgroßvater, der auf der Tanne saß -- Ums Vaterwort -- Allerlei
+  Spielzeug -- Wie der Meisensepp gestorben ist -- Wie ich dem lieben Herrgott mein
+  Sonntagsjöppl schenkte -- Wie das Zicklein starb -- Dreihundert vierundsechzig und
+  eine Nacht -- Als ich Bettelbub gewesen -- Als ich zur Drachenbinderin ritt -- Als
+  dem kleinen Maxel das Haus niederbrannte -- Als ich das erste Mal auf dem Dampfwagen
+  saß -- Als ich –
+title: "Als ich noch der Waldbauernbub war. Band 1\r\nFür die Jugend ausgewählt aus\
+  \ den Schriften Roseggers vom Hamburger Jugendschriftenausschuß."
+url: http://www.gutenberg.org/ebooks/61998
